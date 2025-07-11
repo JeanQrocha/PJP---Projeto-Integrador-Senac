@@ -35,33 +35,3 @@ Este é um projeto de um **sistema de controle financeiro pessoal**, desenvolvid
 ├── Model
 │   ├── Usuario.cs             # Classe do modelo de usuário
 │   └── Transacao.cs           # Classe do modelo de transações
-```
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abra o projeto no **Visual Studio**
-3. Compile e execute (`F5`)
-4. Faça o cadastro de um usuário e comece a registrar suas transações
-
-## 📸 Capturas de Tela (Opcional)
-
-Adicione aqui screenshots das telas de Login, Cadastro, Transações e Relatório, se desejar.
-
-## 🛠️ Futuras Melhorias
-
-- Armazenamento em banco de dados (atualmente em memória/arquivos?)
-- Exportar relatório em PDF
-- Suporte a múltiplas moedas
-- Autenticação com token JWT para versão web futura
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para utilizar, modificar e distribuir.
-
----
-
-Feito com 💻 e ☕ por [Seu Nome]
